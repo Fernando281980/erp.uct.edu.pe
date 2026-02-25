@@ -1,1 +1,1 @@
-# erp.uct.edu.pe
+verificacion-uct
